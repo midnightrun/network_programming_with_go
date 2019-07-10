@@ -3,4 +3,4 @@
 ## Description
 This repository holds all exercises/source code examples that I found interesting/challenging/.../... enough to recreate within the book **Network Programming with Go** from *Jan Newmatch*.
 
-For the purpose of a better learning result.
+Simply for the purpose of fun.
